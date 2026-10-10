@@ -1,7 +1,7 @@
-# 🎮 안녕하세요, 게임 만드는 김도연입니다!
+# 🎮 안녕하세요, 서비스를 만드는 김도연입니다!
 ### 🛠️ 게임 & VR 콘텐츠 디자인 전공 | 웹 개발자
 
-사용자에게 즐거운 경험을 주는 인터랙티브한 웹 게임 구현과 로직 설계에 깊은 관심을 가지고 있습니다.
+사용자에게 즐거운 경험을 주는 인터랙티브한 웹, 게임 구현과 로직 설계에 깊은 관심을 가지고 있습니다.
 전공 지식을 바탕으로 몰입감 있는 콘텐츠를 만듭니다.
 
 <br>
@@ -21,7 +21,8 @@
 - 웹 게임
    - **🍉 수박 게임 (Suika Game Style)**: 과일을 합쳐 점수를 내는 물리 엔진 기반의 웹 게임
    - **🔫 라이어 룰렛 (Liar's Roulette Style)**: 심리적 긴장감을 주는 확률 기반의 카드 루렛 게임
-
+   - **❄️ SNOWFALL**: 떨어지는 눈사태를 피해 스키를 타며 아래로 내려가는 웹 게임
+   - **🐱 고양이 낚시 (Cat Fishing)**: 고양이가 낚시대를 던져 물고기를 찾고 낚아 올리는 힐링 웹 게임
 ---
 
 ## 🛠️ 기술 스택 (Tech Stack)
@@ -47,16 +48,17 @@
 
 ---
 
-## 📈 나의 활동 통계 (My Stats)<p align="center">
+## 📈 나의 활동 통계 (My Stats)
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kdy20716&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true" alt="Doyeon's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=kdy20716&theme=radical&background=0D1117&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<br><br>
+<br>
 
 <p align="left">
-<img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=kdy20716&layout=compact&theme=radical&bg_color=0D1117&hide_border=true" alt="Top Languages" /></p>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kdy20716&layout=compact&theme=radical&bg_color=0D1117&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
@@ -67,7 +69,3 @@
 * 💻 **GitHub**: [kdy20716](https://github.com/kdy20716)
 
 ---
-
-<p align="center">
-  <i>"The best way to predict the future is to create it."</i>
-</p>

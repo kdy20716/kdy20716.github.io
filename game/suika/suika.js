@@ -110,6 +110,7 @@ let comboTimer = null;
 
 // 기록 불러오기 함수
 async function loadRecords() {
+  if (!firebaseConfig.apiKey) return;
   // 내 점수 ID 목록 가져오기
   const myScoreIds = JSON.parse(
     localStorage.getItem("suika-my-score-ids") || "[]",

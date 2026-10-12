@@ -1,6 +1,6 @@
-// 이 파일은 .gitignore에 등록되어 깃허브에 올라가지 않습니다.
+// 보안을 위해 노출된 Gemini/Firebase API 키가 제거되었습니다.
 export const firebaseConfig = {
-  apiKey: "AQ.Ab8RN6LFaru9vI5NCjd1HqI8SziRx2UyBGv7UrbEszkky4cM_w",
+  apiKey: "",
   authDomain: "suika-b837d.firebaseapp.com",
   projectId: "suika-b837d",
   storageBucket: "suika-b837d.firebasestorage.app",
